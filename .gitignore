@@ -1,0 +1,16 @@
+*.thy#
+*.thy~
+
+*.bib#
+*.bib~
+
+*.tex#
+*.tex~
+
+ROOT#
+ROOT~
+
+*.ML#
+*.ML~
+
+dump
